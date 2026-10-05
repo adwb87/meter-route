@@ -1,0 +1,6 @@
+node_modules
+tests/
+shortcut/
+package.json
+package-lock.json
+.DS_Store
